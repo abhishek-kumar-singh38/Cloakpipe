@@ -1,0 +1,1 @@
+"""CloakPipe defensive research modules."""
